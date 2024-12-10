@@ -1,5 +1,5 @@
 module.exports = {
-    name: "auth-microfrontend",
+    name: "auth",
     filename: "Login.js",
     exposes: {
         './auth': './components',
