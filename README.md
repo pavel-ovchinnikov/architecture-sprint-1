@@ -33,3 +33,4 @@
 
 ## Задание 2
 
+[Задание 2 лежит в корне проекта `arch_template_task2.drawio`](./arch_template_task2.drawio)
